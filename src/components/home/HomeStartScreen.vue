@@ -15,7 +15,7 @@
         <p
           class="google-font mt-0 mb-0"
           style="font-weight: 600;font-size: 32px;color:#4285F4"
-        >International Women's Day 2020</p>
+        >International Women's Day 2021</p>
         <p
           class="google-font mb-0"
           style="font-size: 135%;color: rgb(23, 172, 182);font-weight: 800;"
@@ -51,24 +51,6 @@
           text
           class="ml-0 google-font"
         >Become a Member</v-btn>
-        <v-btn
-          href="/report"
-          target="_blank"
-          rounded
-          color="#fff"
-          text
-          style="text-transform: capitalize;border-radius:5px;margin-right: 5px;color: white;font-size:15px;background-color:#4285F4"
-          class="ml-0 google-font"
-        >IWD India Report</v-btn>
-        <v-btn
-          href="https://www.youtube.com/channel/UCOpGX93bBiVxa2zoKrmjqXA/playlists?view=1&sort=da&flow=grid"
-          target="_blank"
-          rounded
-          color="#fff"
-          text
-          style="text-transform: capitalize;border-radius:5px;color: white;font-size:15px;background-color:#c4302b"
-          class="ml-0 google-font"
-        >YouTube Channel</v-btn>
       </v-flex>
       <v-flex xs12 sm12 md5 lg5 xl5 class="text-xs-center d-none d-sm-block header-mobile-image">
         <!-- <v-img

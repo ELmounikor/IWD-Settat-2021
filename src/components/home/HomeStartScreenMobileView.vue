@@ -16,7 +16,7 @@
       <v-card-title
         class="google-font"
         style="font-size:150%;color:#4285F4;margin-top:-10px;word-break:normal;"
-      >International Women's Day 2020</v-card-title>
+      >International Women's Day 2021</v-card-title>
       <v-card-text>
         <p
           class="google-font mb-2"
@@ -57,27 +57,6 @@
           outlined
           class="ml-0 google-font"
         >Become a Member</v-btn>
-        <br />
-        <br />
-        <v-btn
-          href="/report"
-          target="_blank"
-          rounded
-          color="#fff"
-          text
-          style="text-transform: capitalize;border-radius:5px;color: white;font-size:15px;background-color:#4285F4"
-          class="ml-0 google-font"
-        >IWD India Report</v-btn>
-        <br />
-        <br />
-        <v-btn
-          href="https://www.youtube.com/channel/UCOpGX93bBiVxa2zoKrmjqXA/playlists?view=1&sort=da&flow=grid"
-          target="_blank"
-          rounded
-          color="#fff" text
-          style="text-transform: capitalize;border-radius:5px;color: white;font-size:15px;background-color:#c4302b"
-          class="ml-0 google-font"
-        >YouTube Channel</v-btn>
       </v-card-text>
     </v-card>
 

@@ -9,7 +9,7 @@
           <b class="google-font">Everyone is welcome here</b>
         </p>
         <p class="google-font mt-3" style="text-align:justify;">
-          Inviting women and allies from India and abroad who wish to celebrate and recognize the women who have influenced the tech industry and beyond.
+          Inviting women and allies from Morocco and abroad who wish to celebrate and recognize the women who have influenced the tech industry and beyond.
           <span
             class="hidden-sm-and-down hidden-md-and-down"
           >
