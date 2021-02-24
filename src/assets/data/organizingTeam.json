@@ -1,528 +1,222 @@
 [{
-        "name": "Varsha Jaiswal",
+        "name": "Abdellah JAIZE",
         "community": {
-            "name": "GDG & WTM Jalandhar",
-            "designation": "#IamRemarkable Facilitator, Co-Organizer & WTM Ambassador"
+            "name": "GDG & WTM Settat",
+            "designation": "Organizer"
         },
         "company": {
-            "name": "Edfora Infotech",
-            "designation": "Software Engineer"
+            "name": "",
+            "designation": ""
         },
-        "image": "varsha.jpg",
-        "bio": "Varsha is a girl with a bag full of hardwork and determination to fulfill her responsibilities. Working as a Software Engineer, she has a keen interest in working on new technologies. Being a facilitator of #IamRemarkable Workshop, she always gives her best to motivate her surrounding. Despite busy schedules, she never misses any chance to travel and eat.",
+        "image": "abdellah_jaize.jpg",
+        "bio": "Data Scientist",
         "social": {
-            "twitter": "https://twitter.com/_varshajaiswal_",
-            "linkedin": "https://www.linkedin.com/in/varshajaiswal/"
+            "twitter": "https://twitter.com/AbdellahJAIZE",
+            "linkedin": "https://www.linkedin.com/in/abdellah-jaize"
         }
     },
     {
-        "name": "Supriya Shashivasan",
+        "name": "Abderrahman JAIZE",
         "community": {
-            "name": "GDG and WTM Hubli",
-            "designation": "GDG and WTM Organizer"
+            "name": "GDG and WTM Settat",
+            "designation": "Organizer"
         },
         "company": {
-            "name": "Sony India Software Center",
-            "designation": "Software Engineer"
+            "name": "Tesea",
+            "designation": "Data Scientist"
         },
-        "image": "supriya.jpg",
-        "bio": "Supriya is a huge tech enthusiast who loves to learn new technologies. Working with fellow members of the community to build a thriving tech community is the ultimate joy she believes. Her tech forte is Reactjs and frontend technologies. She loves to code, read books, travel, play badminton and is always up for anything thrown her way.",
+        "image": "abdearahmane.jpg",
+        "bio": "Data Scientist | Machine Learning | Deep Learning | NLP | Python | Computer vision | PhD student.",
         "social": {
-            "twitter": "https://twitter.com/s_omeal",
-            "linkedin": "https://www.linkedin.com/in/supriya-shashivasan-886908148"
+            "twitter": "https://twitter.com/jaizemsd",
+            "linkedin": "https://www.linkedin.com/in/abderrahman-jaize"
         }
     },
     {
-        "name": "Dhruva Shastri",
+        "name": "Jihane MAJDOUL",
         "community": {
-            "name": "GDG/ WTM Ahmedabad",
-            "designation": "Co-Organizer & WTM Ambassador"
+            "name": "GDG & WTM Settat",
+            "designation": "Organizer"
         },
         "company": {
-            "name": "All Events",
-            "designation": "Associate Executive"
+            "name": "",
+            "designation": ""
         },
-        "image": "dhruva.jpg",
-        "bio": "Her interests as an inquisitive #WomenInTech is to learn new every day. Being developer by heart, she continually look out for areas that interest her to work on. Apart from that, Being a facilitator for #IamRemarkable initiative and community lover, playing a role as an Ambassador at WTM Ahmedabad, enthusiast about emboldening women in every sphere of their life and enjoys people’s synergy.",
+        "image": "jihane_majdoul.jpg",
+        "bio": "WTM Ambassador |Business Intelligence IamRemarkable facilitator",
         "social": {
-            "twitter": "https://twitter.com/dhruvashastri12",
-            "linkedin": "https://www.linkedin.com/in/dhruvashastri12"
+            "twitter": "https://twitter.com/jihanemajdoul",
+            "linkedin": "https://www.linkedin.com/in/jihane-majdoul-3b7334141"
         }
     },
     {
-        "name": "Savvy Jain",
+        "name": "Siham BEN DAIA",
         "community": {
-            "name": "WTM Indore, GDG Indore",
-            "designation": "WTM Ambassador"
+            "name": "GDG & WTM Settat",
+            "designation": "Organizer"
         },
         "company": {
-            "name": "Cofiato",
-            "designation": "CEO and Founder"
+            "name": "",
+            "designation": ""
         },
-        "image": "savvy.jpg",
-        "bio": "Savvy loves data and everything around it. She used to be a data scientist and has experience working in various domains. She is currently CEO and Founder of Cofiato, which is a Hardware Intelligence firm. Her second love is community evangelism. She's associated with many technical and networking communities like GDG, GCDC, WTM, Linkedin Local, BNI etc. She is also Women in Data Science Regional Ambassador. She likes innovation, creativity, and coffee",
+        "image": "siham_bendaia.jpg",
+        "bio": " Junior web developer | Student (Master of Cloud and high performance computing)",
         "social": {
-            "twitter": "twitter.com/savvyjain",
-            "linkedin": "linkedin.com/in/savvyjain"
+            "twitter": "https://twitter.com/BendaiaS",
+            "linkedin": "https://www.linkedin.com/in/siham-ben-daia-791820165"
         }
     },
     {
-        "name": "Aditi Soni",
+        "name": "Mohammed FAKHAM",
         "community": {
-            "name": "GDG & WTM Pune",
-            "designation": "WTM Ambassador"
+            "name": "GDG Settat",
+            "designation": "Organizer"
         },
         "company": {
-            "name": "Consultadd Inc.",
-            "designation": "Software Engineer"
+            "name": "",
+            "designation": ""
         },
-        "image": "aditi.jpg",
-        "bio": "Aditi is a community lover and a passionate developer. She keeps contributing to various technical communities as an organizer or a speaker. As a personal interest, she develops mobile Applications. She is also a Google India Udacity Android Developers Nanodegree 2018 Scholar. Reading about new inventions and breakthroughs keeps her motivated. She always tries to empower women with the power of community to help women achieve the things they aim for. Happiness is a choice and she strongly believes that one should always keep the child inside them alive.",
+        "image": "Fakham_Mohammed.jpg",
+        "bio": "Android · Data science · BigData · machine learning · Web Development",
         "social": {
-            "twitter": "https://twitter.com/soniaditi380",
-            "linkedin": "https://www.linkedin.com/in/aditi-soni/"
+            "twitter": "",
+            "linkedin": "https://www.linkedin.com/in/mohammed-fakham"
         }
     },
     {
-        "name": "Dhivya Krishna ",
+        "name": "Salma EL BAKKAL ",
         "community": {
-            "name": "WTM Ambassador",
-            "designation": "GDG Coimbatore & WTM Coimbatore"
+            "name": "GDG & WTM Settat",
+            "designation": "Co-Organizer"
         },
         "company": {
-            "name": "Vakilsearch",
-            "designation": "Writer"
+            "name": "",
+            "designation": ""
         },
-        "image": "dhivya.jpg",
-        "bio": "Writer | TEDxSKCET - Licensee and Organizer | Google Developers Group organizer | WTM Coimbatore Ambassador | Digital marketer | Public speaker | Psychologist | An IT student | Social Activist | SEO Specialist | Content marketing",
+        "image": "salma_elbakkal.jpg",
+        "bio": "DSC Lead chez Developer Student Clubs",
         "social": {
-            "twitter": "https://twitter.com/Dhivya_nk",
-            "linkedin": "https://www.linkedin.com/in/dhivya-krishna-37a00711b/"
+            "twitter": "",
+            "linkedin": "https://www.linkedin.com/in/salmaelbakkal"
         }
     },
     {
-        "name": "Priyal Jain",
+        "name": "Bouchra LABIAD",
         "community": {
-            "name": "GDG Cloud & WTM Indore",
-            "designation": "WTM Ambassador"
+            "name": "GDG & WTM Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "EngineerBabu",
-            "designation": "Web Developer"
+            "name": "",
+            "designation": ""
         },
-        "image": "priyal.jpg",
-        "bio": "Priyal is a passionate UI developer and keen to learn new things which are in trending, Explore about new technologies and challanges that are new and which we will able to learn from that. Love to be with me!!!",
+        "image": "1-bochra-labiad.jpg",
+        "bio": "Cybersecurity engineering || NSE1&2 || CNSS ||CCNA",
         "social": {
-            "twitter": "https://twitter.com/priyaljain919",
-            "linkedin": "https://www.linkedin/in/priyaljain919"
+            "twitter": "https://twitter.com/labiadbochra",
+            "linkedin": "https://www.linkedin.com/in/bochra-labiad"
         }
     },
     {
-        "name": "Poornima Satheesh",
+        "name": "Yassine EL-MAHI",
         "community": {
-            "name": "TFUG & GDG & WTM Kozhikode",
-            "designation": "#IamRemarkable Facilitator, Co-Organizer & WTM Ambassador"
+            "name": "GDG Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "Glaubetech",
-            "designation": "Business executive & Software engineer"
+            "name": "",
+            "designation": ""
         },
-        "image": "poornima.jpg",
-        "bio": "Poornima is a passionate software engineer, Data science enthusiast, Currently working as a business executive at Glaubetech. She loves to organize tech events and lead the community. Being an #IamRemarkable facilitator she enjoys to help others to be confident and passionate about what they are. Apart from tech, she is a lover of books, enjoys travelling.",
+        "image": "yassine_elmahi.jpg",
+        "bio": "Developer & data Scientist",
         "social": {
-            "twitter": "https://twitter.com/_poornima_sudha",
-            "linkedin": "https://www.linkedin.com/in/poornima-s-350704130"
+            "twitter": "",
+            "linkedin": "https://www.linkedin.com/in/yassine-elmahi-b48688171"
         }
     },
     {
-        "name": "Ananya R",
+        "name": "Mohamed EL MOUKTAFI",
         "community": {
-            "name": "GDG & WTM Trivandrum",
+            "name": "GDG Settat",
             "designation": "WTM Ambassador & Co-Organizer"
         },
         "company": {
-            "name": "LBS Institute of Technology for Women",
-            "designation": "Student"
+            "name": "",
+            "designation": ""
         },
-        "image": "ananya.jpg",
-        "bio": "Ananya is an enthusiastic and inquisitive learner .She is a techie and is the  WTM Ambassador of GDG Trivandrum. She is a responsible volunteer who takes part in different community programs with aplomb.She has been  awarded' Outstanding Women in Engineering student volunteer' from IEEE Kerala Section in  2018 for the contribution to women student engineering community.She is an opportunist & optimistic personality who loves to explore & learn.",
+        "image": "el_mouktafi_mohamed.jpg",
+        "bio": "Software engineering student",
         "social": {
-            "twitter": "https://twitter.com/AnanyaR15",
-            "linkedin": "https://www.linkedin.com/in/ananya-r"
+            "twitter": "https://twitter.com/medkouffy",
+            "linkedin": "https://www.linkedin.com/in/elmouktafi"
         }
     },
     {
-        "name": "Aananya",
+        "name": "Mounia EL KOURAICHI",
         "community": {
-            "name": "WTM Bangalore, GDG Bangalore",
-            "designation": "WTM Ambassador, GDG Organizer"
+            "name": "GDG & WTM Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "Kubric.io",
-            "designation": "Developer Experience Engineer"
+            "name": "",
+            "designation": ""
         },
-        "image": "aananya.jpg",
-        "bio": "Aananya is a Developer Experience Engineer at Kubric. She is a strong believer of the principle “Lift as you climb”. Loves Idlis and is driven by empathy. Talk to her about Code, Community & Creativity",
+        "image": "mounia_el.jpg",
+        "bio": "Data and IoT Student",
         "social": {
-            "twitter": "https://twitter.com/py_anan",
-            "linkedin": "https://www.linkedin.com/in/aananya-27/"
+            "twitter": "https://twitter.com/ELmounikor",
+            "linkedin": "https://www.linkedin.com/in/elmounikor"
         }
     },
     {
-        "name": "Akanshi Srivastava",
+        "name": "Wiame ELAYDI",
         "community": {
-            "name": "WTM VIT Vellore, DSC-VIT Vellore",
-            "designation": "WTM Ambassador, GDG Organizer (2017-18)"
+            "name": "GDG & WTM Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "Gojek",
-            "designation": "Product Engineer (UXE - Android)"
+            "name": "",
+            "designation": ""
         },
-        "image": "akanshi.jpg",
-        "bio": "Akanshi is a Product Engineer (Android developer), currently working at Gojek in the UX Engineering team. She likes to work on UI/UX design and development. She is interested in public speaking and is active on Stack Overflow. She has also been a mentor in different communities and events. She likes empowering women, creative UIs, problem solving and logical reasoning along with good music.",
+        "image": "wiame_elaydi.jpg",
+        "bio": "",
         "social": {
-            "twitter": "https://twitter.com/akanshi_s",
-            "linkedin": "https://www.linkedin.com/in/akanshi32/"
+            "twitter": "",
+            "linkedin": ""
         }
     },
     {
-        "name": "Riya Guha Thakurta",
+        "name": "Hassna FATHANE",
         "community": {
-            "name": "GDG & WTM Kolkata",
-            "designation": "WTM Ambassador , GDG Co-Organizer"
+            "name": "GDG & WTM Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "Johnson Controls",
-            "designation": "Associate Software Engineer"
+            "name": "",
+            "designation": ""
         },
-        "image": "riya.jpg",
-        "bio": "Riya is an Associate Software Engineer working with Johnson Controls. She believes in contributing towards community and sharing knowledge with others to solve their problems, which leads her to serve for her regional community as a WomenTechmakers Ambassador and Co-organizer of Google Developers Group Kolkata.Being an Intel Software Innovator she looks forward to share her expertise which thrives to innovation and would be helpful for tech enthusiasts to build solution in IoT.She love programming and applying her skills to solve real life problems and make life smarter.",
+        "image": "hassna.jpg",
+        "bio": "Blogger",
         "social": {
-            "twitter": "https://twitter.com/RiyaThakurta",
-            "linkedin": "https://www.linkedin.com/in/riya-guha-thakurta/"
+            "twitter": "https://twitter.com/FathaneHassnaa",
+            "linkedin": "https://www.linkedin.com/in/hassnaa-fathane-8164a417b"
         }
     },
     {
-        "name": "Lakshya Sivaramakrishnan",
+        "name": "Khaoula ATFAOUI",
         "community": {
-            "name": "Women Techmakers India",
-            "designation": "Program Manager"
+            "name": "GDG & WTM Settat",
+            "designation": "Assistant Organizer"
         },
         "company": {
-            "name": "Women Techmakers",
-            "designation": "Program Manager"
+            "name": "",
+            "designation": ""
         },
-        "image": "lakshya.jpg",
-        "bio": "Lakshya manages the Women Techmakers Program in India. She is a data science enthusiast building tech expertise in Machine Learning and Google Cloud. She enjoys nurturing communities and empowering more women to join, thrive and lead in the tech industry.",
+        "image": "khaoula.jpg",
+        "bio": "Designer |FREELANCER",
         "social": {
-            "twitter": "https://twitter.com/lakshyas90/",
-            "linkedin": "https://www.linkedin.com/in/lakshyasi/"
-        }
-    },
-    {
-        "name": "Pranoti Nandurkar",
-        "community": {
-            "name": "GDG/WTM Pune",
-            "designation": "WTM Ambassador, GDG Organizer"
-        },
-        "company": {
-            "designation": "Sr. Consultant",
-            "name": "Infosys Ltd"
-        },
-        "image": "pranoti.jpg",
-        "bio": "Pranoti is Software Engineer who has keen interest in developing height quality softwares. She is working in Infosys Ltd as Sr. Consultant. She is WTM ambassador for Pune chapter. she enjoys voluntarily organizing and speaking at developer events. Also, she believes in sharing knowledge and collaborating with other people through these events.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/pranoti-nandurkar-170021b",
-            "twitter": "https://twitter.com/PranotiNandurka"
-        }
-    },
-    {
-        "name": "Usha Ramani Vemuru",
-        "community": {
-            "name": "GDG/WTM Vizag",
-            "designation": "GDG VIZAG Co organiser, WTM VIZAG Ambassador, #Iamremarkable facilitator"
-        },
-        "company": {
-            "designation": "CEO and Co founder",
-            "name": "Gurujada"
-        },
-        "image": "usha.jpg",
-        "bio": "Usha is the Co-founder and CEO of GURUJADA, a product company facilitating online teaching and conferencing solutions. Having spent 6+ years in teaching engineering, she is deeply passionate about bringing the classroom and gurukul experience online. She believes that only teacher-led training can help eliminate the abysmal course completion rates in self-paced learning. Through her company, she aims to bring “scale” and “reach” to a good teacher while helping them retain all their best practice. Her leadership style is through compassion. She is also a Goldman Sachs entrepreneur ambassador trained by ISB.  She's currently the co-organizer and ambassador of GDG/WTM Vizag.  With her roots in teaching, she loves increasing the impact of tech communities on the careers of freshers and students. She deeply believes in being a learner for life.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/mwlite/in/usha-ramani-vemuru-66286723",
-            "twitter": "https://twitter.com/vusharamani"
-        }
-    },
-    {
-        "name": "Aarshiya Guneja",
-        "community": {
-            "name": "WTM Ambassador, GDG Co-Organizer",
-            "designation": "GDG/WTM Jaipur"
-        },
-        "company": {
-            "designation": "Software Engineer",
-            "name": "NAV Consulting, Inc."
-        },
-        "image": "aarshiya.jpg",
-        "bio": "Aarshiya is a Software Developer who has a keen interest in developing softwares using core principles and methodologies. Besides being a co-organizer in Google Developer Group and Women TechMakers Jaipur Ambassador- she enjoys voluntarily organizing and speaking at developer events and believes in sharing knowledge.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/aarshiyaguneja/",
-            "twitter": "https://twitter.com/aarshiyaguneja"
-        }
-    },
-    {
-        "name": "Remya Vava",
-        "community": {
-            "name": "GDG/WTM Trivandrum",
-            "designation": "WTM Ambassador, GDG Co-Organizer, #IamRemarkable Facilitator"
-        },
-        "company": {
-            "designation": "Solutions Architect",
-            "name": "QBurst Technologies"
-        },
-        "image": "remya.jpg",
-        "bio": "She’s a solution Architect, a techincal speaker, a passionate developer and always a learner. Also a WTM Ambassador, GDG Co-Organizer & an #IamRemarkable Facilitator",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/remyapvava/",
-            "twitter": "https://twitter.com/remyapvava"
-        }
-    },
-    {
-        "name": "Amalu Susan Santhosh",
-        "community": {
-            "name": "WTM Ambassador, GDG Co-Organizer, #IamRemarkable Facilitator",
-            "designation": "GDG/WTM Cochin"
-        },
-        "company": {
-            "designation": "Student",
-            "name": "College of Engineering Chengannur"
-        },
-        "image": "amalu.jpg",
-        "bio": "Amalu is an enthusiastic learner who thrives to help others in the best possible manner. Currently a final year undergraduate Computer Science engineering student in Kerala and the WTM Ambassador of Cochin chapter. She is also an #IamRemarkable Facilitator and has conducted session for students as well as professionals in her circle. she likes to build her career  in Product Management.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/amalu-susan-santhosh/",
-            "twitter": "https://twitter.com/susan_amalu"
-        }
-    },
-    {
-        "name": "Annapurna Agrawal",
-        "community": {
-            "name": "GDG/WTM Bhubaneswar",
-            "designation": "WTM Ambassador, GDG Organizer, #IamRemarkable Facilitator"
-        },
-        "company": {
-            "designation": "Author",
-            "name": "Pluralsight"
-        },
-        "image": "annapurana.jpg",
-        "bio": "Annapurna is a full stack developer. Currently, she is working on creating technical educational content online with various platforms. She believes in sharing experiences and learning. She is an organiser at google developer group and Women Techmaker Ambassador, working to nurture local tech enthusiats. She is also facilitator for #IamRemarkable program.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/annapurna-agrawal/",
-            "twitter": "https://twitter.com/annapurna_23"
-        }
-    },
-    {
-        "name": "Dhruti Joshi",
-        "community": {
-            "name": "GDG/WTM Gandhinagar",
-            "designation": "WTM Ambassador, GDG Co-Organizer"
-        },
-        "company": {
-            "designation": "Sr. Software Engineer",
-            "name": "Tatvasoft PVT LTD"
-        },
-        "image": "dhruti.jpg",
-        "bio": "Dhruti is a Team Leader and Senior Software Engineer, building her career as a Full Stack Developer with experience of more than half a decade. Always fascinated by maths and logic. Especially, she love to work on C# MVC, EF, Angular, Node.js, React.js and Express. Apart from development, she would like to do something from which she can connect with people and people can know her as well. So for this, she is doing public speaking on Technical topics and like to share knowledge.",
-        "social": {
-            "linkedin": "http://linkedin.com/in/dhruti-shah-85b38739",
-            "twitter": "https://twitter.com/DhrutiJoshi4?s=20"
-        }
-    },
-    {
-        "name": "Dikshita Desai",
-        "community": {
-            "name": "GDG/WTM Goa",
-            "designation": "GDG Goa Organizer, WTM Goa Ambassador, #IamRemarkable Facilitator"
-        },
-        "company": {
-            "designation": "Software Developer",
-            "name": ""
-        },
-        "image": "dikshita.jpg",
-        "bio": "Dikshita is a software developer and an avid reader. She believes in \"kaizen\" code, and enjoys machine learning & robotics. When not infront of PC she is found with dogs, chai, passport or just dead in her bed. Her love for learning and teaching tech content gets her to be the Women Techmakers ambassador for Goa and also a GDG Goa organizer.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/desaidikshita/",
-            "twitter": "https://twitter.com/desaidikshita"
-        }
-    },
-    {
-        "name": "Nivetha Maran",
-        "community": {
-            "designation": "Frontend Engineer",
-            "name": "Fourkites"
-        },
-        "company": {
-            "designation": "Frontend Engineer",
-            "name": "Fourkites"
-        },
-        "image": "nivetha.jpg",
-        "bio": "Nivetha Maran is a frontend engineer, technical speaker and a community leader . She is skilled in frontend technologies like Angular, React , Javascript, etc. She manages Google Developers Group and Womentechmakers Chennai. She loves to give tech talks around Angular and other web technologies at conferences. And most importantly she loves coffee :P",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/nivetha-maran-54959b110/",
-            "twitter": "https://twitter.com/NivethaMaran"
-        }
-    },
-    {
-        "name": "Padmapriya R",
-        "community": {
-            "name": "GDG/WTM Madurai",
-            "designation": "WTM Ambassador for Madurai, #IamRemarkable Facilitator"
-        },
-        "company": {
-            "designation": "Software Test Engineer",
-            "name": "GeeksUp"
-        },
-        "image": "padmapriya.jpg",
-        "bio": "Padmapriya is a software test Engineer. She likes to share her knowledge with others. She always wanted to empower girls who comes from underrepresented background. She mentors students to get into a good company by teaching them the technical knowledge which industries expects right now. She is running a MakerWomen platform which is dedicated for women of all age group to solve a real world problem together. She likes to travel and exploring new places and its culture. She is a WTM Ambassador for Madurai city.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/padmapriya-r-5122a1a7/",
-            "twitter": "https://twitter.com/padmapriyaru"
-        }
-    },
-    {
-        "name": "Sumitra Bagchi",
-        "community": {
-            "name": "GDG Cloud Kolkata",
-            "designation": "WTM Ambassador"
-        },
-        "company": {
-            "designation": "",
-            "name": ""
-        },
-        "image": "sumitra.jpg",
-        "bio": "Sumitra Bagchi is an independent developer, Women Techmaker Ambassador, Cloud StudyJam Facilitator and a GDG Cloud Kolkata Organizer.Skilled with PHP, CakePHP, Wordpress, HTML5, jQuery, AJAX, Bootstrap and MySQL. She is a learner of new technologies.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/sumitra-bagchi-880b00140/",
-            "twitter": "https://twitter.com/sumitrabagchi"
-        }
-    },
-    {
-        "name": "Swathi Bavanaka",
-        "community": {
-            "name": "WTM Hyderabad",
-            "designation": "WTM Ambassador"
-        },
-        "company": {
-            "designation": "Co-founder & COO",
-            "name": "Evibe.in"
-        },
-        "image": "swathi.jpg",
-        "bio": "CoFounder at Evibe.in, the ultimate platform for celebrations to enable a billion memories across the globe. At Evibe, she takes care of innovation, business strategies, key partnerships and sales. She has 5+ years of strong experience in the party service Industry, scaling operations across 4 cities with profitable unit economics and 100% year-on-year growth in revenues in all the five years.\n\nShe did her MS in CS from the USA and returned back to India with her passion for startups. She has been identified as an Inspiring woman entrepreneur by Karnataka Government and as an emerging woman entrepreneur of Hyderabad in 2019 by the Government of Telangana. She leads Google Women Techmakers Hyderabad chapter and she aspires to influence and bring in more women in technology.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/swathibavanaka/",
-            "twitter": "https://twitter.com/swathibavanaka"
-        }
-    },
-    {
-        "name": "Ranu Jaiswal",
-        "community": {
-            "name": "WTM Indore",
-            "designation": "WTM Ambassador and #IamRemarkable Facilitator"
-        },
-        "company": {
-            "designation": "Software Engineer",
-            "name": "Infobeans Technology"
-        },
-        "image": "ranu.jpg",
-        "bio": "Ranu is a software developer by profession and a dance lover by passion. She is keen interested in developing a change to encourage the women in tech. She likes to teach and provide support to those who are in need.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/ranu-jaiswal-255a84100",
-            "twitter": "https://mobile.twitter.com/ranuj74"
-        }
-    },
-    {
-        "name": "Shilpa Garg",
-        "community": {
-            "name": "GDG New Delhi",
-            "designation": "GDG New Delhi Organizer & WTM Ambassador"
-        },
-        "company": {
-            "designation": "Lead AI Consultant",
-            "name": "Magic Software"
-        },
-        "image": "shilpa.jpg",
-        "bio": "Shilpa is a Software Engineer presently working in the field of Machine Learning(NLP). She is a Tech Speaker, Google MLCC Facilitator, python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a toal experience of 5+ years in the Industry. She is organiser of GDG New Delhi & WTM Ambassador as well. She loves community building and empowering women in Tech.",
-        "social": {
-            "linkedin": "http://linkedin.com/in/shilpagarg13",
-            "twitter": "https://twitter.com/shilpa1994"
-        }
-    },
-    {
-        "name": "P A Anjali",
-        "community": {
-            "name": "GDG/WTM Cochin",
-            "designation": "WTM Ambassador, GDG Co-Organizer"
-        },
-        "company": {
-            "designation": "Product Developer",
-            "name": "SurveySparrow"
-        },
-        "image": "anjali.jpg",
-        "bio": "Anjali is a product developer at SurveySparrow and works with Nodejs.  She earned her Bachelors degree from Cochin University. Anjali identifies herself as a dreamer and believes that dreams reflect your potential. Apart from tech Anjali likes to read and know more about how the universe was formed and works.",
-        "social": {
-            "linkedin": "https://in.linkedin.com/in/anjali9265",
-            "twitter": "https://twitter.com/Anjali9265"
-        }
-    },
-    {
-        "name": "Tayba Wasim",
-        "community": {
-            "name": "WTM/GDG Jaipur",
-            "designation": "WTM Ambassador Jaipur , GDG Co-organizer, #IamRemarkable facilitator"
-        },
-        "company": {
-            "designation": "Freelancer",
-            "name": "Freelancer"
-        },
-        "image": "tayba.jpg",
-        "bio": "Tayba is a technically enthusiastic person who loves to play with data. Freelancer , Dreamer and living with the belief that Faith can move mountains, She aims to create a platform that can facilitate bringing together of technically enthusiastic women.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/tayba-wasim-9a410510b/",
-            "twitter": "https://twitter.com/TaybaWasim"
-        }
-    },
-    {
-        "name": "Suparna J",
-        "community": {
-            "name": "WTM/GDG Kozhikode",
-            "designation": "WTM Ambassador, GDG Co-organizer, TFUG Co-organizer"
-        },
-        "company": {
-            "designation": "Senior Engineer",
-            "name": "Senior Engineer"
-        },
-        "image": "suparna.jpg",
-        "bio": "She is a passionate developer currently working with Machine Learning and Backend Technologies. She is also working closely with developer communities and enjoys her roles as GDG Co-organizer, TFUG Co-organizer & WTM Ambassador.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/suparna-j-58933159",
-            "twitter": "https://twitter.com/suparnajtk"
-        }
-    },
-    {
-        "name": "Sonakshi Shukla",
-        "community": {
-            "name": "WTM Jalandhar",
-            "designation": "WTM Ambassador"
-        },
-        "company": {
-            "designation": "Subject Matter Expert",
-            "name": "Western Digital"
-        },
-        "image": "sonakshi.jpg",
-        "bio": "Sonakshi is a girl with high spirit and full of motivation. She is creative, energetic and always open to learn new skills. She is working in Western Digital. She has always been a great personality in her community and possess the theme #TogetherWeRise in herself.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/sonakshi15/",
-            "twitter": "https://twitter.com/Sonakshishukla1"
+            "twitter": "",
+            "linkedin": "https://www.linkedin.com/in/khaoula-atfaoui-1779371a1"
         }
     }
 ]
