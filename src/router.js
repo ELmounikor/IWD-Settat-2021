@@ -17,7 +17,7 @@ const  router =  new Router({
       name: 'home',
       component: Home,
       meta:{
-        title:'Home | IWD India Summit 2020',
+        title:'Home | IWD Settat 2021',
         color:'white'
       }
     },
@@ -26,7 +26,7 @@ const  router =  new Router({
       name: 'home',
       component: Home,
       meta:{
-        title:'Home | IWD India Summit 2020',
+        title:'Home | IWD Settat 2021',
         color:'white'
       }
     },
@@ -35,7 +35,7 @@ const  router =  new Router({
       name: 'team',
       component: () => import('./views/Team.vue'),
       meta: { 
-        title:"Team | IWD India Summit 2020",
+        title:"Team | IWD Settat 2021",
         hideNavigation: true,
         color:'yellow'
       }
@@ -45,7 +45,7 @@ const  router =  new Router({
       name: 'speakers',
       component: () => import('./views/Speakers.vue'),
       meta:{
-        title:'Speakers | IWD India Summit 2020',
+        title:'Speakers | IWD Settat 2021',
         color:'blue'
       }
     },
@@ -54,7 +54,7 @@ const  router =  new Router({
       name: 'agenda',
       component: () => import('./views/Agenda.vue'),
       meta:{
-        title:'Agenda | IWD India Summit 2020',
+        title:'Agenda | IWD Settat 2021',
         color:'red'
       }
     },
@@ -63,7 +63,7 @@ const  router =  new Router({
       name: 'faq',
       component: () => import('./views/FAQ.vue'),
       meta:{
-        title:'FAQ | IWD India Summit 2020',
+        title:'FAQ | IWD Settat 2021',
         color:'red'
       }
     },
@@ -72,7 +72,7 @@ const  router =  new Router({
       name: 'resources',
       component: () => import('./views/Resources.vue'),
       meta: {
-        title: 'Resources | IWD India Summit 2020',
+        title: 'Resources | IWD Settat 2021',
         color: 'blue'
       }
     },
@@ -81,7 +81,7 @@ const  router =  new Router({
       name: 'testimonials',
       component: () => import('./views/Testimonials.vue'),
       meta: {
-        title: 'Testimonials | IWD India Summit 2020',
+        title: 'Testimonials | IWD Settat 2021',
         color: 'blue'
       }
     },
