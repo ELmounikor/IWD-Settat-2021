@@ -12,13 +12,13 @@
             <a
               href="https://www.womentechmakers.com/ambassadors"
               target="_blank"
-            >Women Techmakers Ambassadors</a> from India
+              >Women Techmakers Ambassadors</a
+            >
+            from Settat
           </p>
           <p>
             For concerns and queries, contact us at
-            <a
-              href="mailto:wtmindia2020@gmail.com"
-            >wtmindia2020@gmail.com</a>
+            <a href="https://www.facebook.com/GDGSettat">Facebook page</a>
           </p>
         </v-col>
       </v-row>
@@ -29,15 +29,26 @@
             :src="require('@/assets/img/common/wtm-footer-logo.png')"
             :lazy-src="require('@/assets/img/common/wtm-footer-logo.png')"
           >
-            <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
-              <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+            <v-layout
+              slot="placeholder"
+              fill-height
+              align-center
+              justify-center
+              ma-0
+            >
+              <v-progress-circular
+                indeterminate
+                color="grey lighten-5"
+              ></v-progress-circular>
             </v-layout>
           </v-img>
         </v-col>
         <v-col cols="2" class="google-font mt-5 text-right">
           <router-link to="/faq" tag="v-btn">
             <p color="white" flat value="faq">
-              <span class="google-font" style="color:rgb(66, 133, 244);">FAQ</span>
+              <span class="google-font" style="color:rgb(66, 133, 244);"
+                >FAQ</span
+              >
             </p>
           </router-link>
         </v-col>
@@ -61,9 +72,7 @@
         <v-col class="google-font mt-5" style="color:#4285F4;text-align:center">
           <p>
             For concerns and queries, contact us at
-            <a
-              href="mailto:wtmindia2020@gmail.com"
-            >wtmindia2020@gmail.com</a>
+            <a href="https://www.facebook.com/GDGSettat">Our facebook page</a>
           </p>
         </v-col>
       </v-row>
@@ -75,18 +84,23 @@
             :lazy-src="require('@/assets/img/common/wtm-footer-logo.png')"
           >
             <v-layout slot="placeholder" fill-height ma-0>
-              <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+              <v-progress-circular
+                indeterminate
+                color="grey lighten-5"
+              ></v-progress-circular>
             </v-layout>
           </v-img>
         </v-col>
         <v-col cols="2" class="google-font mt-5">
           <router-link to="/faq" tag="v-btn">
             <p color="white" flat value="faq">
-              <span class="google-font" style="color:rgb(66, 133, 244);">FAQ</span>
+              <span class="google-font" style="color:rgb(66, 133, 244);"
+                >FAQ</span
+              >
             </p>
           </router-link>
-          </v-col>
-          <v-col cols="2" class="text-right">
+        </v-col>
+        <v-col cols="2" class="text-right">
           <v-img
             :src="require('@/assets/img/common/up-arrow.png')"
             :lazy-src="require('@/assets/img/common/up-arrow.png')"
@@ -103,7 +117,7 @@ export default {
   methods: {
     toTop() {
       this.$vuetify.goTo(0);
-    }
-  }
+    },
+  },
 };
 </script>
