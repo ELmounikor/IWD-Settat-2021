@@ -9,29 +9,25 @@
           <b class="google-font">Everyone is welcome here</b>
         </p>
         <p class="google-font mt-3" style="text-align:justify;">
-          Inviting women and allies from India and abroad who wish to celebrate and recognize the women who have influenced the tech industry and beyond.
-          <span
-            class="hidden-sm-and-down hidden-md-and-down"
-          >
-            Together let’s celebrate the super-women in our lives. Together let’s create a new narrative for our industry.
-            <br />
-          </span>
-          <br />
+          The virtual event will bring together thriving women in tech from all
+          over the world for a day of inspirational talks, and technical
+          content. We invite you to join us to hear about Google Cloud, AI,
+          Android, and Web technologies. all through the lens of what it means
+          to be a woman in tech today.
+          <br /><br />
           <span class="hidden-sm-and-down hidden-md-and-down">
-            Allies are people who work to support diverse groups in our community with which they may not necessarily identify as members.
-            <br />
+            So…. what will you have the #CouragetoCreate in 2021?
           </span>
-          <br />This event is put together by a group of amazing, passionate women who truly believe in nurturing communities.
-          <span
-            class="hidden-sm-and-down hidden-md-and-down"
-          >Our speakers are women who have been associated with communities within their organisations, cities, country and beyond.</span>
         </p>
       </v-flex>
 
       <v-flex xs12 sm5 md4 lg4 xl6 class="pt-5">
         <v-layout row wrap class="px-0 stats-center-wrapper">
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">4.75K</span>
               </b>
@@ -39,7 +35,10 @@
             <p class="google-font">Registrations</p>
           </v-flex>
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">40</span>
               </b>
@@ -47,7 +46,10 @@
             <p class="google-font">Speakers</p>
           </v-flex>
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">35</span>
               </b>
@@ -55,7 +57,10 @@
             <p class="google-font">Communities</p>
           </v-flex>
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">10.7K+</span>
               </b>
@@ -63,7 +68,10 @@
             <p class="google-font">Total Viewers</p>
           </v-flex>
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">6.4K</span>
               </b>
@@ -71,7 +79,10 @@
             <p class="google-font">Live Viewers</p>
           </v-flex>
           <v-flex xs4 class="text-center">
-            <p class="google-font mb-0" style="font-weight: 330;color: #616161;font-size:220%">
+            <p
+              class="google-font mb-0"
+              style="font-weight: 330;color: #616161;font-size:220%"
+            >
               <b>
                 <span style="color: #4285F4;">22</span>
               </b>
@@ -88,6 +99,6 @@
 export default {
   data() {
     return {};
-  }
+  },
 };
 </script>

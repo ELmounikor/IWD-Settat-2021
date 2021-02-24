@@ -2,7 +2,7 @@
   <v-app-bar app color="white" hide-on-scroll scroll-off-screen>
     <v-app-bar-nav-icon @click="toggleDrawer" class="hidden-md-and-up"></v-app-bar-nav-icon>
     <router-link to="/" tag="v-toolbar-title">
-      <v-toolbar-title class="google-font pa-0">IWD India 2020</v-toolbar-title>
+      <v-toolbar-title class="google-font pa-0">IWD Settat 2021</v-toolbar-title>
     </router-link>
     <v-spacer></v-spacer>
 

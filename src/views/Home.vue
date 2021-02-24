@@ -16,7 +16,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="my-0 py-5 hidden-sm-and-up">
+    <!-- <v-container fluid class="my-0 py-5 hidden-sm-and-up">
       <v-layout wrap align-center justify-center row fill-height class="mt-5">
         <v-flex xs12 md10>
           <ResourcesMobileView />
@@ -30,7 +30,7 @@
           <Resources />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
 
     <v-container fluid class="grey lighten-4 py-5">
       <v-layout wrap align-center justify-center row fill-height>
@@ -77,9 +77,9 @@ export default {
       import("@/components/communityGuidelines/guidelines"),
     HomeStartScreenMobileView: () =>
       import("@/components/home/HomeStartScreenMobileView"),
-    Resources: () => import("@/components/resources/Resources"),
-    ResourcesMobileView: () =>
-      import("@/components/resources/ResourcesMobileView")
-  }
+    // Resources: () => import("@/components/resources/Resources"),
+    // ResourcesMobileView: () =>
+    //   import("@/components/resources/ResourcesMobileView")
+  },
 };
 </script>

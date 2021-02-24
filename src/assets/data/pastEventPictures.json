@@ -1,78 +1,26 @@
 [
     {
-        "img": "wtm-india.jpg",
-        "name": "WTM India"
+        "img": "wtm-iwd-web-banners-01.png",
+        "name": "IWD Settat 2021"
     },
     {
-        "img": "iwd-india-2019.jpg",
-        "name": "IWD India 2019"
+        "img": "gdg-wtm-settat.jpg",
+        "name": "WTM & GDG Settat"
     },
     {
-        "img": "iwd-india-2018.jpg",
-        "name": "IWD India 2018"
+        "img": "iwd-2019.jpg",
+        "name": "IWD Settat 2019"
     },
     {
-        "img": "iwd-india-2017.jpg",
-        "name": "IWD India 2017"
+        "img": "study-jams.jpg",
+        "name": "Study Jams"
     },
     {
-        "img": "wtm-jalandhar.jpg",
-        "name": "WTM Jalandhar"
+        "img": "girls-day2019.jpg",
+        "name": "Girls Day 2019"
     },
     {
-        "img": "wtm-trivandrum.jpg",
-        "name": "WTM Trivandrum"
-    },
-    {
-        "img": "wtm-cochin.jpg",
-        "name": "WTM Cochin"
-    },
-    {
-        "img": "wtm-kozhikode.jpg",
-        "name": "WTM Kozhikode"
-    },
-    {
-        "img": "wtm-jodhpur.jpg",
-        "name": "WTM Jodhpur"
-    },
-    {
-        "img": "wtm-indore.jpg",
-        "name": "WTM Indore"
-    },
-    {
-        "img": "wtm-vizag.png",
-        "name": "WTM Vizag"
-    },
-    {
-        "img": "wtm-pune.png",
-        "name": "WTM Pune"
-    },
-    {
-        "img": "wtm-ahmedabad.jpg",
-        "name": "WTM Ahmedabad"
-    },
-    {
-        "img": "wtm-coimbatore.jpg",
-        "name": "WTM Coimbatore"
-    },
-    {
-        "img": "wtm-madurai.jpeg",
-        "name": "WTM Madurai"
-    },
-    {
-        "img": "wtm-goa.jpg",
-        "name": "WTM Goa"
-    },
-    {
-        "img": "wtm-hyderabad.jpeg",
-        "name": "WTM Hyderabad"
-    },
-    {
-        "img": "wtm-bbsr.jpg",
-        "name": "WTM Bhubaneshwar"
-    },
-    {
-        "img": "wtm-kolkata.jpg",
-        "name": "WTM Kolkata"
+        "img": "girls-day.png",
+        "name": "Girls Day 2020"
     }
 ]
